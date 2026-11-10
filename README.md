@@ -1,0 +1,2 @@
+# Extraction-of-Jitter-HNR-Parameters-from-Audio-Signals-for-the-Assessment-of-Vocal-Fold-Disorders
+MATLAB-based voice signal analysis for the extraction of Jitter and Harmonic-to-Noise Ratio (HNR) parameters, aimed at supporting the automatic assessment of vocal fold disorders. The project analyzes pre- and post-operative vowel recordings to investigate vocal characteristics and potential pathological changes.
